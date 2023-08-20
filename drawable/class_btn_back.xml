@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" /> <!-- 배경 색상 -->
+    <corners android:radius="12dp" /> <!-- 반경 12dp의 라운드 모서리 -->
+    <size android:width="372dp" android:height="206dp" /> <!-- 너비와 높이 -->
+</shape>
